@@ -1,8 +1,6 @@
 # Owners
 
 Owners:
-  - Avi Deitcher (@deitch)
+  - Matthew Fisher (@bacongobbler)
   - Josh Dolitsky (@jdolitsky)
-  - Sajay Antony (@sajayantony)
-  - Shiwei Zhang (@shizhMSFT)
-  - Steve Lasker (@stevelasker)
+  
